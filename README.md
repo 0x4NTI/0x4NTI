@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0x4NTI</h1>
-<h3 align="center">Programs developer</h3>
+<h3 align="center">Programs Developer</h3>
 
 - 🔭 I’m currently working on **Galerie Lafayette**
 
